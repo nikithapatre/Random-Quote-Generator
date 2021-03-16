@@ -1,0 +1,48 @@
+body {
+    padding: 150px 0 100px 0;
+    background-color: #020024;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Satisfy', cursive;
+    color: yellow;
+}
+
+#quote-box {
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+    color: whitesmoke;
+}
+
+#text {
+  font-size: 150%;  
+  font-family: 'Dancing Script', cursive;
+padding-bottom: 10px;
+  color: whitesmoke;
+}
+
+#author {
+    font-size: 120%;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+#new-quote{
+    margin: 15px 200px 15px 200px;
+font-family: 'Dancing Script', cursive;
+font-weight: bolder;
+padding-right: 10px ;
+padding-left: 10px;
+font-size: large;
+transition-duration: 0.4s;
+}
+
+button:hover{
+opacity: 0.7;
+color:rgb(41, 141, 207);
+}
+
